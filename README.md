@@ -11,4 +11,4 @@ This application interacts with the spotify web api (https://developer.spotify.c
 - Displays the authorized users top 10 tracks over the past 6 months
 - Authentication is provided over oAuth
 
-
+![alt text](https://github.com/rorydevelop/spotify-top-tracks/blob/master/PREVIEW.png?raw=true)
